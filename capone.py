@@ -3,7 +3,6 @@ import numpy as np
 import geoplotlib as gpl
 from geoplotlib.utils import read_csv, DataAccessObject, BoundingBox
 import matplotlib.pyplot as plt; plt.rcdefaults()
-import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 
