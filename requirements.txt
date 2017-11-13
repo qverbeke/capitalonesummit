@@ -1,0 +1,5 @@
+pandas==0.20.3
+numpy==1.13.3
+geoplotlib
+matplotlib==2.1.0
+
